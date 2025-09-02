@@ -122,3 +122,9 @@ This is an educational project. For questions or issues, please contact the cour
 ---
 
 *Built with ❤️ for iOS development learning*
+
+## 📱 App Demo
+
+![App Demo](Screen%20Recording%202025-09-01%20at%2011.39.56%20PM.gif)
+
+*Screen recording demonstrating the app's functionality and user interface*
