@@ -125,6 +125,6 @@ This is an educational project. For questions or issues, please contact the cour
 
 ## 📱 App Demo
 
-img src="app-demo.gif" width="200" alt="App Demo" />
+<img src="app-demo.gif" width="200" alt="App Demo" />
 
 *Screen recording demonstrating the app's functionality and user interface*
