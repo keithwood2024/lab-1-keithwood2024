@@ -125,6 +125,6 @@ This is an educational project. For questions or issues, please contact the cour
 
 ## 📱 App Demo
 
-![App Demo](Screen%20Recording%202025-09-01%20at%2011.39.56%20PM.gif)
+![App Demo](app-demo.gif)
 
 *Screen recording demonstrating the app's functionality and user interface*
